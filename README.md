@@ -1,0 +1,1 @@
+A sample MEAN (MongoDB, ExpressJS, AngularJS, NodeJS) Stack web app that performs CURD (Create, Update, Read, Delete). A tutorial by @moshhamedani - see [this article](https://blog.udemy.com/node-js-tutorial/) for instruction.
